@@ -1,0 +1,10 @@
+mfa.gov.ua#新加坡|SG
+saas.sin.fan#日本|JP
+store.ubi.com#新加坡|SG
+cf.130519.xyz#韩国|KR
+cf.008500.xyz#香港|HK
+cf.090227.xyz#新加坡|SG
+cf.877774.xyz#香港|HK
+cdns.doon.eu.org#日本|JP
+sub.danfeng.eu.org#台湾|TW
+cf.zhetengsha.eu.org#香港|HK
